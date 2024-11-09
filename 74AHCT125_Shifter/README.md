@@ -3,6 +3,8 @@
 This project describes a breakout board for the 74AHCT125 Quad Buffer/Line Driver IC, used as a level shifter. The 74AHCT125 can shift signals from a lower voltage level, such as 3.3V, to a higher level, such as 5V. This is particularly useful when connecting microcontrollers with different voltage levels.
 It's intended use is to shift the LED data line from an ESP to drive digital LEDs like the WS2812b, but it can be used for a lot of different usecases.
 
+![shifter](./images/sn74ahct125_normal.png)
+
 ## Overview
 
 The 74AHCT125 consists of four independent buffer/line driver units with three-state outputs and active-low enable (OE) inputs. The OE inputs allow each of the four channels to be controlled individually. The chip operates with a supply voltage of 4.5 to 5.5V and can shift signals to a 5V level when powered at 5V.
