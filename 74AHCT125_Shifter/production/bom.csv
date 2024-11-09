@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,1206,1,100n,
+"J1, J2",PinHeader_1x06_P2.54mm_Vertical,2,Conn_01x06_Pin,
+U1,SOIC-14_3.9x8.7mm_P1.27mm,1,74AHCT125,
