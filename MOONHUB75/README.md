@@ -17,7 +17,7 @@ This is heavily inspired by the [ESP-HUB75-Driver by rorosaurus](https://github.
 |--|--|
 |R0|IO1|
 |G0|IO5|
-|G0|IO6|
+|B0|IO6|
 |R1|IO7|
 |LAT|IO8|
 |B1|IO9|
